@@ -7,6 +7,8 @@ Color Preservation is based on the paper [Preserving Color in Neural Artistic St
 
 Masked Style Transfer is based on the paper [Show, Divide and Neural: Weighted Style Transfer](http://cs231n.stanford.edu/reports/2016/pdfs/208_Report.pdf)
 
+https://blog.paperspace.com/art-style-transfer-neural-networks/
+
 ## Colaboratory Support
 
 [This codebase can now be run directly from colaboratory using the following link](https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb), or by opening `NeuralStyleTransfer.ipynb` and visiting the Colab link.
